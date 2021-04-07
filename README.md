@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**nicoarkano/nicoarkano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nicoarkano/nicoarkano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Bitcoin
 - 📫 How to reach me: twitter.com/nicoarkano
 - ⚡ Fun fact: I love Harry Potter
--->
