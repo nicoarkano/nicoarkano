@@ -18,8 +18,8 @@ I am passionate about the world of cryptocurrencies, Javascript and Linux. I pro
 -----
 
 
-``````mermaid
-sequenceDiagram
+```mermaid
+ sequenceDiagram
 2018 ->> 2021: Blockchain Knowledge and Smart Contracts
 2019 -->> 2021: Solidity
 2018 ->> 2021: Front End Developer
@@ -28,5 +28,4 @@ sequenceDiagram
 2019 ->>2020: Programming Fundamentals
 2019 -->>2020: Pseint
 2020 ->> 2021: Javascript Engineer 
-
-
+```
