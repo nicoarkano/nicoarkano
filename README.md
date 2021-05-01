@@ -18,7 +18,7 @@ I am passionate about the world of cryptocurrencies, Javascript and Linux. I pro
 -----
 
 
-```mermaid
+``````mermaid
 sequenceDiagram
 2018 ->> 2021: Blockchain Knowledge and Smart Contracts
 2019 -->> 2021: Solidity
