@@ -3,7 +3,7 @@ I am passionate about the world of cryptocurrencies, Javascript and Linux. I pro
 
 ------------
 
-#Skills
+## Skills
 
 1.  [ HTML](https://github.com/nicoarkano/cv " HTML")
 2.  [CSS](https://github.com/nicoarkano/santaclara "CSS")
