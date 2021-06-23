@@ -17,7 +17,8 @@ I am passionate about the world of cryptocurrencies, Javascript and Linux. I pro
 
 -----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoarkano)](https://github.com/anuraghazra/github-readme-stats)
-
+-----
+![](https://visitor-badge.laobi.icu/badge?page_id=nicoarkano.nicoarkano)
 
 ```mermaid
  sequenceDiagram
