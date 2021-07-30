@@ -7,23 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nicoarkano" target="blank"><img src="https://img.shields.io/twitter/follow/nicoarkano?logo=twitter&style=for-the-badge" alt="nicoarkano" /></a> </p>
 
-- 🔭 I’m currently working on [Solidity](https://github.com/nicoarkano/Solidity-Project)
 
-- 🌱 I’m currently learning **Javascript, Solidity, React and Truffle Suite**
-
-- 👯 I’m looking to collaborate with me on [a Lubuntu Linux Distribution](https://github.com/lubuntu-team)
-
-- 🤝 I’m looking for help with me in the [Personal Portfolio](https://github.com/nicoarkano/nicoarkano-portfolio)
-
-- 👨‍💻 All of my projects are available at [https://www.nicoarkanoportfolio.ml](https://www.nicoarkanoportfolio.ml)
-
-- 📝 I regularly write articles (in spanish) on [https://nicoarkano.medium.com](https://nicoarkano.medium.com)
-
-- 💬 Ask me about **Bitcoin, Blockchain or Ethereum Dev**
-
-- 📫 How to reach me **nicoarkano@vivaldi.net**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/nicoarkano?_l=en_US](https://www.linkedin.com/in/nicoarkano?_l=en_US)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
